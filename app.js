@@ -18,7 +18,7 @@ app.get('/', (req, res) => {
     res.end('<h1>git?? reverse </h1>')
 });
 
-// local에서 수정 했음 
+// local에서 수정 했음22222222
 app.get('/', (req, res) => {
     res.end('<h1>git?? reverse </h1>')
 });
