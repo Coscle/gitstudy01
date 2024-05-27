@@ -14,6 +14,7 @@ app.get('/shop', (req, res) => {
     res.end('<h1>Hello world2!</h1>')
 });
 
+// step1 try
 const server = http.createServer(app);
 server.listen(3000, ()=> {
     console.log('Run on server http://localhost:3000');
